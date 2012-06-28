@@ -40,9 +40,8 @@ TARGET = manager
 SOURCES =  main.cpp sql_utils.cpp GeneratePlayers.cpp
 LIBRARIES = sqlite3
 
-DEBUGMODE := 1
+DEBUGMODE = 1
 
-#
 # A complete list of all the settings you can use in your Makefile follows. It
 # should be noted, though, that some settings are better defined in the shell's
 # environment and/or specified on the make command line than hard-coded straight
