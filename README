@@ -1,0 +1,9 @@
+This project uses sqlite
+
+to allow compilation on Mac:
+	1) install Macports
+	2) sudo port install sqlite3
+	3) sudo port install sqlitewrapped
+
+Ubuntu Linux:
+	
