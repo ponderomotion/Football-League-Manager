@@ -37,7 +37,7 @@
 # from it. For example, your Makefile might look something like this:
 #
 TARGET = manager
-SOURCES =  sql_utils.cpp manager.cpp GeneratePlayers.cpp
+SOURCES =  main.cpp sql_utils.cpp GeneratePlayers.cpp
 LIBRARIES = sqlite3
 
 DEBUGMODE := 1
